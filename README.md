@@ -1,4 +1,4 @@
-# template-composable-architecture
+# Template for Composable Architecture
 
 <a href="https://developer.apple.com/swift"><img src="https://img.shields.io/badge/swift5-compatible-orange.svg?longCache=true&style=flat-square" alt="Swift 5 compatible"/></a>
 <img src="https://img.shields.io/badge/platforms-iOS-lightgray.svg?longCache=true&style=flat-square" alt="Supports iOS"/>
